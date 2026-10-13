@@ -18,4 +18,5 @@ patches:
 #     skala-registry.skala-ai.com/class-6/sk205-webserver=skala-registry.skala-ai.com/class-6/sk205-webserver:<NEW_TAG>
 images:
 - name: skala-registry.skala-ai.com/class-6/sk205-webserver
-  newTag: "1.0.kaniko-pod"
+  newName: skala-registry.skala-ai.com/class-6/sk205-webserver
+  newTag: 1.0-dk1-8aaaf9e
